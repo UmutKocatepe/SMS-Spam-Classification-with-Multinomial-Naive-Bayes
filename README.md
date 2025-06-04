@@ -1,4 +1,4 @@
-# Multinomial Naive Bayes SMS Spam Classifier (Scratch)
+# Multinomial Naive Bayes SMS Spam Classifier
 
 This project implements a **Multinomial Naive Bayes** classifier from scratch (no scikit-learn NaiveBayes).  
 It classifies SMS messages as spam or ham, using the classic **SMS Spam Collection** dataset.
@@ -11,6 +11,7 @@ It classifies SMS messages as spam or ham, using the classic **SMS Spam Collecti
 - `data/` – dataset
 - `results/` – generated plots
 - `notebooks/` – optional interactive demo
+- `docs/` – project report file
 
 ## Features
 - Manual tokenization and word frequency calculation
