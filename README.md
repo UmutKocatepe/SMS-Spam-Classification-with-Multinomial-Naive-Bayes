@@ -52,6 +52,7 @@ jupyter notebook
 If you prefer not to use Jupyter Notebook, you can also run the project as a standalone Python script:
 ```bash
 python src/main.py
+```
 
 > This project was submitted for the Data Mining course in the Spring Semester 2024–2025 at Bursa Technical University.
 
