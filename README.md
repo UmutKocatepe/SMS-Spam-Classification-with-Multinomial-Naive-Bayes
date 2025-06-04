@@ -41,13 +41,17 @@ Below are the recommended setup steps:
 conda create -n sms-spam python=3.10
 conda activate sms-spam
 conda install jupyter pandas numpy scikit-learn matplotlib statsmodels
+```
 
 ### Using pip
+```bash
 pip install pandas numpy scikit-learn matplotlib statsmodels
+```
 
 ### Running the Project as Jupyter Notebook
 ```bash
 jupyter notebook
+```
 
 ### Running as Python Script
 If you prefer not to use Jupyter Notebook, you can also run the project as a standalone Python script:
